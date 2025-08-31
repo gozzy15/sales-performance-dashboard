@@ -29,3 +29,7 @@ This solution enables business leaders to track KPIs in real time, identify unde
 
 - Built as part of a data visualization and analytics project.
 
+## Dashboard Preview
+![Dashboard Screenshot](https://github.com/gozzy15/sales-performance-dashboard/blob/main/sales.png)
+
+
