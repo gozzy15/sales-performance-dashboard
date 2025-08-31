@@ -4,14 +4,13 @@ This project is a Sales Performance Dashboard built using Microsoft Excel 2016.
 
 ## 📊 Project Overview
 
-In this project, I analyzed Superstore sales data to uncover insights into revenue, profitability, customer segments, and regional performance. Using advanced Excel (including Pivot Tables, dashboards, and automated macros), I built an interactive sales dashboard that highlights:
-📈 Top-performing regions, categories, and markets driving revenue growth
-💰 Profitability trends across customer segments and product categories
-🚚 Shipping cost vs. profit trade-offs to optimize logistics
-🔍 Discount and sales impact analysis to identify margin leakages
-🕒 Yearly and weekly sales trends for better forecasting
+In this project, I analyzed Superstore sales data to uncover insights into revenue, profitability, customer segments, and regional performance. Using advanced Excel (including Pivot Tables, dashboards, and automated macros), I built an interactive sales dashboard that highlights:  
+📈 Top-performing regions, categories, and markets driving revenue growth  
+💰 Profitability trends across customer segments and product categories  
+🚚 Shipping cost vs. profit trade-offs to optimize logistics  
+🔍 Discount and sales impact analysis to identify margin leakages  
+🕒 Yearly and weekly sales trends for better forecasting  
 This solution enables business leaders to track KPIs in real time, identify underperforming areas, and make data-driven decisions that improve sales efficiency and profitability.
-Tools used: Excel (Macros, Pivot Tables, Dashboards), Data Cleaning & Transformation
 
 ## 🛠 Tools Used
 - Microsoft Excel 2016
@@ -29,3 +28,4 @@ Tools used: Excel (Macros, Pivot Tables, Dashboards), Data Cleaning & Transforma
 ## 📌 Notes
 
 - Built as part of a data visualization and analytics project.
+
